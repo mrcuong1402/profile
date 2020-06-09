@@ -3,12 +3,12 @@ import React, { Component } from "react";
 class Preloader extends Component {
   render() {
     return (
-      <div classname="preloader">
-        <div classname="centrize full-width">
-          <div classname="vertical-center">
-            <div classname="spinner">
-              <div classname="double-bounce1">
-                <div classname="double-bounce2"></div>
+      <div className="preloader">
+        <div className="centrize full-width">
+          <div className="vertical-center">
+            <div className="spinner">
+              <div className="double-bounce1">
+                <div className="double-bounce2"></div>
               </div>
             </div>
           </div>

@@ -7,7 +7,7 @@ class Client extends Component {
         <div className="client-item">
           <div className="image">
             <a target="_blank" href="https://www.google.com">
-              <img src="images\clients\client_1.png" alt />
+              <img src="images\clients\client_1.png" alt="false" />
             </a>
           </div>
         </div>

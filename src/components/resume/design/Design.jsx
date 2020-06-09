@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import DesignItem from "./design/DesignItem";
+import DesignItem from "./DesignItem";
 
-class SkillItem extends Component {
+class Design extends Component {
   render() {
     return (
       <div className="col col-d-6 col-t-6 col-m-12 border-line-v">
@@ -13,9 +13,9 @@ class SkillItem extends Component {
             <div className="name">Design</div>
           </div>
           <ul>
-            <DesignItem/>
-            <DesignItem/>
-            <DesignItem/>
+            <DesignItem />
+            <DesignItem />
+            <DesignItem />
           </ul>
         </div>
       </div>
@@ -23,4 +23,4 @@ class SkillItem extends Component {
   }
 }
 
-export default SkillItem;
+export default Design;

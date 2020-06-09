@@ -15,7 +15,7 @@ class Started extends Component {
           />
           {/* profile photo */}
           <div className="image">
-            <img src="images\profile.png" alt />
+            <img src="images\profile.png" alt="true" />
           </div>
           {/* profile titles */}
           <div className="title">Nguyen Ngoc Cuong</div>

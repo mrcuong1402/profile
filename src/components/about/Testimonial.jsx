@@ -11,7 +11,7 @@ class Testimonial extends Component {
           </div>
           <div className="user">
             <div className="img">
-              <img src="images\man1.jpg" alt />
+              <img src="images\man1.jpg" alt="false" />
             </div>
             <div className="info">
               <div className="name">Helen Floyd</div>
